@@ -13,6 +13,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 To predict credit risk. Once we’re done, we’ll evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
 
 The following files were used in this project:
+
 [credit_risk_resampling.ipynb](https://github.com/urvish7/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
 
 [credit_risk_ensemble.ipynb](https://github.com/urvish7/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
